@@ -11,7 +11,7 @@ A landing page that is pleasing and minimal for a moving company named "Insta Mo
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![liveDemoScreenshot](https://github.com/ambrish-kd/Insta-Move/assets/90711457/fe3a1d8c-08e6-4b39-8d47-5e36d42586d8)
 
 ## Tech Stack
 
