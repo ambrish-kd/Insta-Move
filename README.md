@@ -18,3 +18,7 @@ A landing page that is pleasing and minimal for a moving company named "Insta Mo
 **Client:** HTML, CSS, Bootstrap, JavaScript
 
 **Server:** NULL
+
+## Author
+
+- [@ambrish-kd](https://github.com/ambrish-kd)
