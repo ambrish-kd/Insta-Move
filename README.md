@@ -1,4 +1,4 @@
-# Insta Move
+# Insta Move - Move with Joy
 
 A landing page that is pleasing and minimal for a moving company named "Insta Move" with the tagline "Move-with-Joy".
 
